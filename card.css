@@ -8,7 +8,7 @@ body {
   align-items: center;
   justify-content: center;
   height: 100vh;
-  background-image: url(/img/novogodnii-fon-82.jpg);
+  background-image: url(novogodnii-fon-82.jpg);
 }
 
 .card-base {
@@ -27,7 +27,7 @@ body {
   height: 100%;
   width: 100%;
   box-shadow: inherit;
-  background-image: url(/img/front-page.jpg);
+  background-image: url(front-page.jpg);
   background-size: cover;
   position: absolute;
   top: -3px;
