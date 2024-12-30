@@ -1,3 +1,7 @@
+document.body.addEventListener('load', () =>{
+  body.style.display = "flex"
+})
+
 const elements = Array.from(document.querySelectorAll("body > div > div"));
 
 function add(element) {
