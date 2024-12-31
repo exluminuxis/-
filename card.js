@@ -1,3 +1,7 @@
+window.addEventListener('load', () =>{
+  document.body.style.display = "flex"
+})
+
 function anim_toggle() {
   elements.forEach((element) => {
     element.classList.toggle("paused");
